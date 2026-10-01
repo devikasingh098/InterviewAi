@@ -387,7 +387,7 @@ A demonstration of InterviewAI shows the complete workflow:
 7. Review the generated performance report
 
 **Demo Video:**
-*Add your hackathon demo video link here.*
+https://drive.google.com/file/d/1_wPbtZX2tfr3b9M2TiNdnvpJYfjqiYaz/view?usp=drivesdk
 
 ---
 
