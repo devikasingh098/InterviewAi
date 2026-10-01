@@ -394,7 +394,7 @@ A demonstration of InterviewAI shows the complete workflow:
 ## 🌐 Live Application
 
 **Live Demo:**
-*Add the deployed application URL here.*
+https://interview-ai-five-beta.vercel.app/
 
 ---
 
